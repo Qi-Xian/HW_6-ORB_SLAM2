@@ -1,11 +1,15 @@
 ###  Take videos
 
-我們使用獅子王影片（因為最近迷上這部），**請點擊下方圖**
+我們使用獅子王影片（因為最近迷上這部），**請點擊下方圖 或 文字連結**
+
+[影片連結1](http://youtu.be/vt5fpE0bzSY)
 
 [![ScreenShot](https://i.imgur.com/xk8X0NQ.jpg)](http://youtu.be/vt5fpE0bzSY)
 
 
 ###  Make these visual effects with ORB-SLAM2 and using post-production software(photoshop）
+
+[影片連結2](https://youtu.be/eDuFB6KNpdQ)
 
 **請點擊下方圖<br>**
 [![ScreenShot](https://i.imgur.com/s0cdh8v.jpg)](https://youtu.be/eDuFB6KNpdQ)
