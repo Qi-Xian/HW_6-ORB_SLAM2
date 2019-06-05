@@ -34,9 +34,9 @@ alt="ORB-SLAM2" width="240" height="180" border="10" /></a>
 
 ### 參考文獻
 
-[ORB_SLAM2教學步驟](https://github.com/cvfx-2019/homework6-Match-Moving-SLAM)
-[Rtabmap1](http://introlab.github.io/rtabmap/)
-[Rtabmap Github](https://github.com/introlab/rtabmap/)
-[LSD-SLAM: Large-Scale Direct Monocular SLAM](https://vision.in.tum.de/research/vslam/lsdslam?redirect=1)
+[1.ORB_SLAM2教學步驟](https://github.com/cvfx-2019/homework6-Match-Moving-SLAM)<br>
+[2.Rtabmap1](http://introlab.github.io/rtabmap/)<br>
+[3.Rtabmap Github](https://github.com/introlab/rtabmap/)<br>
+[4.LSD-SLAM: Large-Scale Direct Monocular SLAM](https://vision.in.tum.de/research/vslam/lsdslam?redirect=1)<br>
 
 
