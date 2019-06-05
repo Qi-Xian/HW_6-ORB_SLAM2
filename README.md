@@ -1,7 +1,7 @@
-###  Take videos by yourselves
+###  Take videos
 
 
-[![Everything Is AWESOME](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/hHTOpapcru0)
+[![Everything Is AWESOME](https://i.imgur.com/xk8X0NQ.jpg)](https://youtu.be/hHTOpapcru0)
 
 
 
