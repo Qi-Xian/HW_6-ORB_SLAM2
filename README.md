@@ -1,7 +1,6 @@
 ###  Take videos
 
-
-[![Everything Is AWESOME](https://i.imgur.com/xk8X0NQ.jpg ](https://youtu.be/hHTOpapcru0)
+我們使用獅子王影片（因為最近迷上這部）
 
 [![ScreenShot](https://i.imgur.com/xk8X0NQ.jpg)](http://youtu.be/vt5fpE0bzSY)
 
