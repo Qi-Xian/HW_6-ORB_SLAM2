@@ -32,6 +32,10 @@ alt="ORB-SLAM2" width="240" height="180" border="10" /></a>
 
 ### 5.Bonus- Make visual effects with other SLAM methods
 
+我們試著使用LSD-SLAM，並加入3D model圖形**（豬的3D模型）**，但是我的顯卡好像不夠力（卡卡的），我們將其延伸我們final Project。
+
+[影片連結7 + 3D豬模型](https://youtu.be/j-bfGB9vl4I)<br>
+
 ### 參考文獻
 
 [1.ORB_SLAM2教學步驟](https://github.com/cvfx-2019/homework6-Match-Moving-SLAM)<br>
