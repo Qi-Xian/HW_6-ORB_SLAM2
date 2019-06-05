@@ -18,10 +18,10 @@
 
 ###  Insert a 3D model to your video
 
-[影片連結3](https://youtu.be/kLqD6h6V5sE)
-[影片連結4](https://youtu.be/LTan41PkaXw)
-[影片連結5](https://youtu.be/DssZGkik3Eg)
-[影片連結6](https://youtu.be/6i3Z6LCjQsU)
+[影片連結3 + 愛跳舞的香蕉](https://youtu.be/kLqD6h6V5sE)
+[影片連結4 + 頑皮的小男孩想偷喝飲料](https://youtu.be/LTan41PkaXw)
+[影片連結5 + 骷髏頭Dancing](https://youtu.be/DssZGkik3Eg)
+[影片連結6 + 霸王龍模型](https://youtu.be/6i3Z6LCjQsU)
 
 
 ### Bonus- Make visual effects with other SLAM methods
