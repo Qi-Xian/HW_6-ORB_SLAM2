@@ -17,7 +17,7 @@
 <a href="https://www.youtube.com/embed/ufvPS5wJAx0" target="_blank"><img src="http://img.youtube.com/vi/ufvPS5wJAx0/0.jpg" 
 alt="ORB-SLAM2" width="640" height="480" border="10" /></a><br>
 
-### 3.Insert a 3D model to your video
+### 3.Insert a 3D model to video
 
 [a.影片連結3 + 愛跳舞的香蕉](https://youtu.be/kLqD6h6V5sE)<br>
 [b.影片連結4 + 頑皮的小男孩想偷喝飲料](https://youtu.be/LTan41PkaXw)<br>
@@ -35,5 +35,8 @@ alt="ORB-SLAM2" width="240" height="180" border="10" /></a>
 ### 參考文獻
 
 [ORB_SLAM2教學步驟](https://github.com/cvfx-2019/homework6-Match-Moving-SLAM)
+[Rtabmap1](http://introlab.github.io/rtabmap/)
+[Rtabmap Github](https://github.com/introlab/rtabmap/)
+[LSD-SLAM: Large-Scale Direct Monocular SLAM](https://vision.in.tum.de/research/vslam/lsdslam?redirect=1)
 
 
