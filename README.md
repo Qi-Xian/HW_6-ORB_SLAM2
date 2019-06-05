@@ -9,16 +9,15 @@
 
 ### 2. Make these visual effects with ORB-SLAM2 and using post-production software(photoshop）
 
-[影片連結2](https://youtu.be/eDuFB6KNpdQ)
-<a href="https://youtu.be/eDuFB6KNpdQ" target="_blank"><img src="https://youtu.be/eDuFB6KNpdQ/0.jpg" 
-alt="ORB-SLAM2" width="240" height="180" border="10" /></a><br>
 
-**原本作者的結果**<br>
-<a href="https://www.youtube.com/embed/ufvPS5wJAx0" target="_blank"><img src="http://img.youtube.com/vi/ufvPS5wJAx0/0.jpg" 
-alt="ORB-SLAM2" width="240" height="180" border="10" /></a><br>
+
 
 **請點擊下方圖<br>**
 [![ScreenShot](https://i.imgur.com/s0cdh8v.jpg)](https://youtu.be/eDuFB6KNpdQ)
+
+**原本作者的結果**<br>
+<a href="https://www.youtube.com/embed/ufvPS5wJAx0" target="_blank"><img src="http://img.youtube.com/vi/ufvPS5wJAx0/0.jpg" 
+alt="ORB-SLAM2" width="640" height="480" border="10" /></a><br>
 
 ### 3.Make some special effects based on the pose information, such as rotating, zooming in or out)
 
