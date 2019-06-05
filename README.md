@@ -1,7 +1,9 @@
 ###  Take videos
 
 
-[![Everything Is AWESOME](https://i.imgur.com/xk8X0NQ.jpg width = "640" height="480)](https://youtu.be/hHTOpapcru0)
+[![Everything Is AWESOME](https://i.imgur.com/xk8X0NQ.jpg ](https://youtu.be/hHTOpapcru0)
+
+[![ScreenShot](https://i.imgur.com/xk8X0NQ.jpg)](http://youtu.be/vt5fpE0bzSY)
 
 
 
