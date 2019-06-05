@@ -23,6 +23,14 @@
 [c.影片連結5 + 骷髏頭Dancing](https://youtu.be/DssZGkik3Eg)<br>
 [d.影片連結6 + 霸王龍模型](https://youtu.be/6i3Z6LCjQsU)<br>
 
+**原本作者的結果**
+<a href="https://www.youtube.com/embed/ufvPS5wJAx0" target="_blank"><img src="http://img.youtube.com/vi/ufvPS5wJAx0/0.jpg" 
+alt="ORB-SLAM2" width="240" height="180" border="10" /></a>
+<a href="https://www.youtube.com/embed/T-9PYCKhDLM" target="_blank"><img src="http://img.youtube.com/vi/T-9PYCKhDLM/0.jpg" 
+alt="ORB-SLAM2" width="240" height="180" border="10" /></a>
+<a href="https://www.youtube.com/embed/kPwy8yA4CKM" target="_blank"><img src="http://img.youtube.com/vi/kPwy8yA4CKM/0.jpg" 
+alt="ORB-SLAM2" width="240" height="180" border="10" /></a>
+
 
 ### 5.Bonus- Make visual effects with other SLAM methods
 
