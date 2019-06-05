@@ -18,6 +18,11 @@
 
 ###  Insert a 3D model to your video
 
+[影片連結3](https://youtu.be/kLqD6h6V5sE)
+[影片連結4](https://youtu.be/LTan41PkaXw)
+[影片連結5](https://youtu.be/DssZGkik3Eg)
+[影片連結6](https://youtu.be/6i3Z6LCjQsU)
+
 
 ### Bonus- Make visual effects with other SLAM methods
 
