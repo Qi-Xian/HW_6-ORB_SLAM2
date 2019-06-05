@@ -38,11 +38,13 @@ alt="ORB-SLAM2" width="240" height="180" border="10" /></a>
 
 ### 使用Python繪出維度與路徑
 
-#### Roll/pitch/yaw圖形
+#### a. Roll/pitch/yaw圖形
 <img src='Graph/trajGraph.png' width = "640" height="480">
-#### X/Y/Z圖形
+
+#### b. X/Y/Z圖形
 <img src='Graph/trajGraph1d.png' width = "640" height="480">
-#### 3D Trajectory圖形
+
+#### c. 3D_Trajectory圖形
 <img src='Graph/trajGraph3d.png' width = "640" height="480">
 
 ### 參考文獻
