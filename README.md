@@ -8,7 +8,7 @@
 ###  Make these visual effects with ORB-SLAM2 and using post-production software(photoshop）
 
 **請點擊下方圖<br>**
-[![ScreenShot](https://i.imgur.com/xk8X0NQ.jpg)](https://youtu.be/eDuFB6KNpdQ)
+[![ScreenShot](https://i.imgur.com/s0cdh8v.jpg)](https://youtu.be/eDuFB6KNpdQ)
 
 ###  (Make some special effects based on the pose information, such as rotating, zooming in or out)
 
