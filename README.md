@@ -12,7 +12,8 @@
 
 
 
-**請點擊下方圖<br>**
+**請點擊下方圖或文字連結<br>**
+[影片連結2](https://youtu.be/eDuFB6KNpdQ)
 [![ScreenShot](https://i.imgur.com/s0cdh8v.jpg)](https://youtu.be/eDuFB6KNpdQ)
 
 **原本作者的結果**<br>
@@ -31,9 +32,9 @@ alt="ORB-SLAM2" width="640" height="480" border="10" /></a><br>
 **原本作者的結果**<br>
 
 <a href="https://www.youtube.com/embed/T-9PYCKhDLM" target="_blank"><img src="http://img.youtube.com/vi/T-9PYCKhDLM/0.jpg" 
-alt="ORB-SLAM2" width="240" height="180" border="10" /></a><br>
+alt="ORB-SLAM2" width="240" height="180" border="10" /></a>
 <a href="https://www.youtube.com/embed/kPwy8yA4CKM" target="_blank"><img src="http://img.youtube.com/vi/kPwy8yA4CKM/0.jpg" 
-alt="ORB-SLAM2" width="240" height="180" border="10" /></a><br>
+alt="ORB-SLAM2" width="240" height="180" border="10" /></a>
 
 
 ### 5.Bonus- Make visual effects with other SLAM methods
