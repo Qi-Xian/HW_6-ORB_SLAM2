@@ -36,7 +36,7 @@ alt="ORB-SLAM2" width="240" height="180" border="10" /></a>
 
 [影片連結7 + 3D豬模型](https://youtu.be/j-bfGB9vl4I)<br>
 
-### 使用Python繪出維度與路徑
+### 6.使用Python繪出維度與路徑
 
 #### a. Roll/pitch/yaw圖形
 <img src='Graph/trajGraph.png' width = "640" height="480">
