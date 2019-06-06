@@ -32,9 +32,9 @@ alt="ORB-SLAM2" width="240" height="180" border="10" /></a>
 
 ### 5.other SLAM methods
 
-我們試著使用LSD-SLAM，並加入3D model圖形 **（豬的3D模型）**，但是我的顯卡好像不夠力（卡卡的），我們將其延伸我們final Project。
+我們試著使用LSD-SLAM，並加入3D model圖形 **（豬的3D模型）**，但是我的顯卡太舊（750M），不太不夠力（卡卡的），規劃換成GTX1080顯卡，我們將其延伸我們**final Project**。
 
-[影片連結7 + 3D豬模型](https://youtu.be/j-bfGB9vl4I)<br>
+[影片連結7 + 3D豬模型 + LSD-SLAM 演算法](https://youtu.be/j-bfGB9vl4I)<br>
 
 ### 6.使用Python繪出維度與路徑
 
@@ -47,7 +47,7 @@ alt="ORB-SLAM2" width="240" height="180" border="10" /></a>
 #### c. 3D_Trajectory圖形
 <img src='Graph/trajGraph3d.png' width = "640" height="480">
 
-### 參考文獻
+### 7.參考文獻
 
 [1.ORB_SLAM2教學步驟](https://github.com/cvfx-2019/homework6-Match-Moving-SLAM)<br>
 [2.Rtabmap1](http://introlab.github.io/rtabmap/)<br>
