@@ -9,7 +9,7 @@
 
 ### 2. Make these visual effects with ORB-SLAM2 and using post-production software(photoshop）+ Zoom In/Out + Rotation
 
-**請點擊下方圖或文字連結<br>**
+**請點擊下方圖或文字連結**<br>
 [影片連結2](https://youtu.be/eDuFB6KNpdQ)
 [![ScreenShot](https://i.imgur.com/s0cdh8v.jpg)](https://youtu.be/eDuFB6KNpdQ)
 
