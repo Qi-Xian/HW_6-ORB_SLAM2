@@ -1,4 +1,4 @@
-### 1. Take videos（Team 14 黃啟賢 + D）
+### 1. Take videos（Team 14 黃啟賢 + Dasha ）
 
 我們使用獅子王影片（因為最近迷上這部），**請點擊下方圖 或 文字連結**
 
