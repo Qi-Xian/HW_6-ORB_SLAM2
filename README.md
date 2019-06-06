@@ -32,7 +32,7 @@ alt="ORB-SLAM2" width="240" height="180" border="10" /></a>
 
 ### 5.other SLAM methods
 
-我們試著使用LSD-SLAM，並加入3D model圖形 **（豬的3D模型）**，但是我的顯卡太舊（750M），不太不夠力（卡卡的），規劃換成GTX1080顯卡，我們將其延伸我們**final Project**。
+我們試著使用LSD-SLAM，並加入3D model圖形 **（豬的3D模型）**，但是我的顯卡太舊（750M），不太夠力（卡卡的），規劃換成GTX1080顯卡，我們將其延伸我們**final Project**。
 
 [影片連結7 + 3D豬模型 + LSD-SLAM 演算法](https://youtu.be/j-bfGB9vl4I)<br>
 
